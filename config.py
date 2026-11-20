@@ -5,7 +5,7 @@ The radio URI can also be set with the CFLIB_URI environment variable.
 from cflib.utils import uri_helper
 
 # Replace XX with the group number and 80 with your channel if different.
-URI = uri_helper.uri_from_env(default="radio://0/80/2M/EE5C21CF00")
+URI = uri_helper.uri_from_env(default="radio://0/80/2M/EE5C21CF04")
 
 # --- Grid / world mapping (staff-approved; placeholders) ---
 CELL_SIZE_M = None        # L, metres per grid cell
