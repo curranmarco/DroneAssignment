@@ -4,5 +4,3 @@ __pycache__/
 cache/
 .DS_Store
 .vscode/
-data/*.csv
-!data/.gitkeep
